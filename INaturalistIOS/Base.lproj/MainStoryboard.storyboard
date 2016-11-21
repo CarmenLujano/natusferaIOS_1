@@ -1417,7 +1417,7 @@
                         </searchBar>
                         <prototypes>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="ProjectCell" rowHeight="44" id="EzP-MT-5na" customClass="ProjectTableViewCell">
-                                <rect key="frame" x="0.0" y="130" width="320" height="44"/>
+                                <rect key="frame" x="0.0" y="66" width="320" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="EzP-MT-5na" id="OQe-bd-Skb">
                                     <rect key="frame" x="0.0" y="0.0" width="287" height="43.5"/>
@@ -3202,12 +3202,12 @@
         <image name="settings-tab.png" width="20" height="20"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="jP3-Xh-m7A"/>
         <segue reference="3K4-WT-L9k"/>
         <segue reference="Q4H-Ck-yCo"/>
-        <segue reference="W10-Pm-t7J"/>
-        <segue reference="91K-l3-swh"/>
-        <segue reference="jP3-Xh-m7A"/>
+        <segue reference="rAj-kb-ce2"/>
         <segue reference="aDK-kM-had"/>
         <segue reference="dRA-LI-BR4"/>
+        <segue reference="z8D-Ga-Qqx"/>
     </inferredMetricsTieBreakers>
 </document>
